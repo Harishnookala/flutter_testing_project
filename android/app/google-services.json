@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087206690527",
+    "firebase_url": "https://meritcampusflutter-3e67e.firebaseio.com",
+    "project_id": "meritcampusflutter-3e67e",
+    "storage_bucket": "meritcampusflutter-3e67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087206690527:android:2ac39f39008ca09bd4e36a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_testing_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087206690527-51tir24m57t14ua2ao2t03ch2vc2mqp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7thlymuHXDPgXNX3jA3Ad7K7fBVhw4kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087206690527-51tir24m57t14ua2ao2t03ch2vc2mqp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
